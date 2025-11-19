@@ -1,4 +1,4 @@
-
+![logo](https://github.com/afrinaswarna/afrinaswarna/blob/main/github-header-banner.png)
 
 # Hi there, I'm Afrina Swarna! 👋  
 ### Junior Web Developer | MERN Stack Learner
