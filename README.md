@@ -74,13 +74,9 @@ I love building clean, responsive, and user-friendly web applications.
 
 ---
 
-## ⭐ Most Used languages
+## ⭐ GitHub Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinaswarna&show_icons=true&locale=en&layout=compact" alt="afrinaswarna" /></p>
 
-
----
-
-## ⭐ GitHub Stats  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinaswarna&show_icons=true&locale=en" alt="afrinaswarna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinaswarna&" alt="afrinaswarna" /></p>
