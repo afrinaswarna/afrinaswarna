@@ -78,6 +78,8 @@ I love building clean, responsive, and user-friendly web applications.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinaswarna&show_icons=true&locale=en&layout=compact" alt="afrinaswarna" /></p>
 
 
+---
+
 ## ⭐ GitHub Stats  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinaswarna&show_icons=true&locale=en" alt="afrinaswarna" /></p>
 
